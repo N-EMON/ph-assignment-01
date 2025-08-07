@@ -268,15 +268,7 @@ main section{
     border: none;
     border-radius: 10px;
 }
-.bg{
-    height: 500px;
-    background-color: yellowgreen;
-}
-.abc{
-    height: 600px;
-    width: 1440px;
-    background-color: #903b3b;
-}
+
 /* Footer styles */
 .footer-item-container{
     max-width: 531px;
